@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi, I'm Naoto Yamaguchi, a fourth-student at the University of Tokyo, majoring in Bioinformatics/Computational Biology.
+
+
+Find me around the web 🌏
+TODO
 <!--
 **Naoto-Yamaguchi/Naoto-Yamaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
