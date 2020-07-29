@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Naoto Yamaguchi, a fourth-student at the University of Tokyo, majoring in Bioinformatics/Computational Biology.
+Hi, I'm Naoto Yamaguchi, a fourth-year student at the University of Tokyo, majoring in Bioinformatics/Computational Biology.
 
 
 Find me around the web 🌏
